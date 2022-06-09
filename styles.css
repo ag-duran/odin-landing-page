@@ -179,3 +179,11 @@ button {
 .fourth-part button {
   border: #f9faf8 solid 2px;
 }
+
+/*FINAL PART*/
+
+.footer {
+  background-color: #1f2937;
+  color: #f9faf8;
+  text-align: center;
+}
